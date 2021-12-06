@@ -1,0 +1,14 @@
+{
+  "namespace": "Sitecore10.Feature.Index",
+  "references": "",
+  "items": {
+    "includes": [
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/Feature/Index",
+        "allowedPushOperations": "createUpdateAndDelete",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  }
+}

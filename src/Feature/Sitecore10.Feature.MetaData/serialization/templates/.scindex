@@ -1,0 +1,46 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.MetaData\serialization\templates\MetaData.yml
+ID: "3999be9c-0079-4e71-943e-1a46954dbb57"
+Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/MetaData
+Signature: MQjp2DjkWK/Dj95NyTivhYZn2NPoQMpQH6u6nb/kLfA=
+Modified: 637743730940486260
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.MetaData\serialization\templates\MetaData\_MetaData.yml
+ID: "577a89d4-ac24-421c-9eed-29988da819ea"
+Parent: "3999be9c-0079-4e71-943e-1a46954dbb57"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/MetaData/_MetaData
+Signature: lO76vpPr1J2/q6wK8NbaCaB28fmqLisvakpXv/iQjXA=
+Modified: 637743730940496223
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.MetaData\serialization\templates\MetaData\_MetaData\MetaData.yml
+ID: "209665c5-14a4-43cc-b9d9-c881850207e5"
+Parent: "577a89d4-ac24-421c-9eed-29988da819ea"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/MetaData/_MetaData/MetaData
+Signature: cXV5SdA0DBJjZ/yw72m7izJrH0Q0NGxWJUVBaMqYrtI=
+Modified: 637743730940506226
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.MetaData\serialization\templates\MetaData\_MetaData\MetaData\Description.yml
+ID: "e23364ce-f1f8-40f9-bd38-835d7352292f"
+Parent: "209665c5-14a4-43cc-b9d9-c881850207e5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/MetaData/_MetaData/MetaData/Description
+Signature: o4uGdTdlKhXi624ME4kIHGMfpOOOjziB1YY5UYacBco=
+Modified: 637743730940706208
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.MetaData\serialization\templates\MetaData\_MetaData\MetaData\Title.yml
+ID: "f9a3ffef-798a-426a-a0d7-60067bde7a3c"
+Parent: "209665c5-14a4-43cc-b9d9-c881850207e5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/MetaData/_MetaData/MetaData/Title
+Signature: FZRwSrCo8P86f5Mr/47ropguo2s0llOV9HRqZ6SzgvA=
+Modified: 637743730940706208
