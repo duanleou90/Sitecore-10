@@ -73,8 +73,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="MetaData.module.json" />
+    <Content Include="Serialization\MetaData.module.json" />
     <None Include="packages.config" />
+    <Content Include="Serialization\serialization\templates\MetaData.yml" />
+    <Content Include="Serialization\serialization\templates\MetaData\_MetaData.yml" />
+    <Content Include="Serialization\serialization\templates\MetaData\_MetaData\Data.yml" />
+    <Content Include="Serialization\serialization\templates\MetaData\_MetaData\Data\Description.yml" />
+    <Content Include="Serialization\serialization\templates\MetaData\_MetaData\Data\Title.yml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -82,6 +87,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

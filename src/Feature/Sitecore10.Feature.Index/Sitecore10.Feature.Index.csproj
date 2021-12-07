@@ -73,8 +73,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Index.module.json" />
+    <Content Include="Serialization\Index.module.json" />
     <None Include="packages.config" />
+    <Content Include="Serialization\serialization\templates\Index.yml" />
+    <Content Include="Serialization\serialization\templates\Index\_Index.yml" />
+    <Content Include="Serialization\serialization\templates\Index\_Index\Data.yml" />
+    <Content Include="Serialization\serialization\templates\Index\_Index\Data\NoFollow.yml" />
+    <Content Include="Serialization\serialization\templates\Index\_Index\Data\NoIndex.yml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

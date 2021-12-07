@@ -1,15 +1,15 @@
 ﻿---
-ID: "8e9df7bf-16c2-4920-b75b-3f01dc9eadf1"
-Parent: "97087f5b-d982-4bba-8a7a-6b07e085d6cf"
+ID: "2345c3cd-6525-44ef-8637-4d1d45f2e68d"
+Parent: "bf7eccdc-f72d-4775-9d47-02cd318b9a62"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Index/_Index/Data/NoFollow
+Path: /sitecore/templates/Feature/Index/_Index/Data/NoIndex
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Checkbox
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 200
+  Value: 100
 Languages:
 - Language: en
   Versions:
@@ -17,7 +17,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20211206T081333Z
+      Value: 20211206T102913Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -28,11 +28,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d6a9f1ea-8625-4861-8a32-c3a1960385c2"
+      Value: "ff6cdd04-79c2-4cba-82ba-d4942a2a3485"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20211206T081348Z
+      Value: 20211206T102913Z

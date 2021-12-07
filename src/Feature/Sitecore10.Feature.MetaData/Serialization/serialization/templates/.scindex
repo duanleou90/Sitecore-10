@@ -1,0 +1,46 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.MetaData\serialization\serialization\templates\MetaData.yml
+ID: "ce6daae6-d5b1-42bd-aec8-a477a2457d36"
+Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/MetaData
+Signature: UpYY1crrg/i2pzAp/4JUpdSOLTLKGJhvkngKjwut5fg=
+Modified: 637743833817611916
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.MetaData\serialization\serialization\templates\MetaData\_MetaData.yml
+ID: "bff8de49-0c57-499c-b604-f3b1a1bb5a09"
+Parent: "ce6daae6-d5b1-42bd-aec8-a477a2457d36"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/MetaData/_MetaData
+Signature: jwem+uTMPR9J9fs2YQ8c1jHurrG+ixbkVAKClsOcOO8=
+Modified: 637743833817621928
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.MetaData\serialization\serialization\templates\MetaData\_MetaData\Data.yml
+ID: "825d69f4-2b7b-4d81-b921-77771b4c3e11"
+Parent: "bff8de49-0c57-499c-b604-f3b1a1bb5a09"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/MetaData/_MetaData/Data
+Signature: Pzc0Wmz9T7ZrfGmcxv1oGyFGQYvcwOBcfL2riVqygUQ=
+Modified: 637743833817621928
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.MetaData\serialization\serialization\templates\MetaData\_MetaData\Data\Description.yml
+ID: "1d01ee80-d2bc-4796-95b4-cdc99e6ba5ac"
+Parent: "825d69f4-2b7b-4d81-b921-77771b4c3e11"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/MetaData/_MetaData/Data/Description
+Signature: fdJWhf7beCJZkN0qOHl1Ts5F6q9+J70b3iWKe67QY8Y=
+Modified: 637743833817631940
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.MetaData\serialization\serialization\templates\MetaData\_MetaData\Data\Title.yml
+ID: "fbc8514f-7126-4b69-946b-8ee39014a58e"
+Parent: "825d69f4-2b7b-4d81-b921-77771b4c3e11"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/MetaData/_MetaData/Data/Title
+Signature: niNSy2wisnoxGKj/nTUfPc4DKgCSouEVEQU4kbxEkic=
+Modified: 637743833817631940

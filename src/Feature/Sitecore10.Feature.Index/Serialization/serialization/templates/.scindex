@@ -1,0 +1,46 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.Index\serialization\serialization\templates\Index.yml
+ID: "3e2793c7-ea84-4460-96e7-9c956b3fd689"
+Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Index
+Signature: HhCJdxtyyOfse/VPy9nbs1m9BdHNjiB0QRbZvnLsfAs=
+Modified: 637743833817521918
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.Index\serialization\serialization\templates\Index\_Index.yml
+ID: "fa0aeb29-f3d1-462c-99d5-702dd0a86e6c"
+Parent: "3e2793c7-ea84-4460-96e7-9c956b3fd689"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Index/_Index
+Signature: /FKVzQDtae1jzGB7zA1PEfTpAxOtXemcVzMEsM+Dock=
+Modified: 637743833817541938
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.Index\serialization\serialization\templates\Index\_Index\Data.yml
+ID: "bf7eccdc-f72d-4775-9d47-02cd318b9a62"
+Parent: "fa0aeb29-f3d1-462c-99d5-702dd0a86e6c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Index/_Index/Data
+Signature: COwPj3DEPcjzPXJbZ0ratUHkl0/0xSIO0TDP8okZuXY=
+Modified: 637743833817541938
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.Index\serialization\serialization\templates\Index\_Index\Data\NoFollow.yml
+ID: "3d2496fb-aa8f-43d3-b595-d5940370eed5"
+Parent: "bf7eccdc-f72d-4775-9d47-02cd318b9a62"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Index/_Index/Data/NoFollow
+Signature: 7ReV00wTD/tg/o4dnB7Qnp+C3qTmDUuemvyUf0FKGwo=
+Modified: 637743833817611916
+---
+File: |
+  D:\testing-projects\sitecore10\src\Feature\Sitecore10.Feature.Index\serialization\serialization\templates\Index\_Index\Data\NoIndex.yml
+ID: "2345c3cd-6525-44ef-8637-4d1d45f2e68d"
+Parent: "bf7eccdc-f72d-4775-9d47-02cd318b9a62"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Index/_Index/Data/NoIndex
+Signature: o9WUNAg82XRBRQ6u5Qzl/uLgxSblS0GYUd7H5qHhi3U=
+Modified: 637743833817601901
